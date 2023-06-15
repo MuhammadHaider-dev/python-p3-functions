@@ -335,3 +335,5 @@ the right number of arguments to avoid errors.
 ## Resources
 
 - [Defining Your Own Python Function](https://realpython.com/defining-your-own-python-function/)
+
+<!-- Minor documentation update -->
