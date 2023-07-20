@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# Minor update for code clarity
+
 def greet_programmer():
     pass
 
