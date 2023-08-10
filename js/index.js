@@ -54,3 +54,5 @@ function halve(number) {
 
   return number / 2;
 }
+
+// Minor update for JS code
